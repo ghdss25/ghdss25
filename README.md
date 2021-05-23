@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)](https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)](https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)
 ### Hi there 👋
 
 <!--
