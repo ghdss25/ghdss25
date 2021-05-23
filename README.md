@@ -5,6 +5,20 @@
 [![Gmail Badge](https://img.shields.io/badge/-gustavotinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavotinho@gmail.com)](mailto:gustavotinho@gmail.com)
 ### Hi there 👋
 
+### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
+
+<details>
+<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+  
+### 📖 Sobre mim
+
+Sou um estudante apaixonado pelas tecnologias. O meu objetivo diário é atuar com rapidez, eficiência e de acordo com as necessidades do meu aprendizado, de forma a proporcionar uma experiência de qualidade, tanto na perspectiva de ganhar conhecimento, como, mostrar para outros o que eu aprendi sobre uma determinada tecnologia na área do desenvolvimento. A minha expectativa de carreira é centra-se essencialmente em resolver soluções de software , nomeadamente em aplicações hibrido e nativo, sites e sistemas de pessoas físicas a empresas. Fora isso, diria que sou uma pessoa bem humorada, curiosa, flexível e metódica, que prospera sob a pressão de se tornar melhor a cada dia.
+
+Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
+</details>
+
+![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss25&show_icons=true&theme=dracula)
+
 <!--
 **ghdss25/ghdss25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
