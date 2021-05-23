@@ -1,6 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)](https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)
 
 [![Instagram Badge](https://img.shields.io/badge/-GustavoHenrique-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/souza_henrique.gustavo/)](https://www.instagram.com/souza_henrique.gustavo/)
+
+[![Gmail Badge](https://img.shields.io/badge/-gustavotinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavotinho@gmail.com)](mailto:gustavotinho@gmail.com)
 ### Hi there 👋
 
 <!--
