@@ -32,7 +32,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ### 💻 Estudando atualmente tecnologias Back - end 
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=072FF5)
+![Python](https://img.shields.io/badge/-Python-FEFB34?style=flat-square&logo=python&logoColor=072FF5)
 
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
