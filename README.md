@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgustavo-henrique-de-souza-silva-4a150a68%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgustavo-henrique-de-souza-silva-4a150a68%2F)
+[![Linkedin Badge](https://img.shields.io/badge/-George-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)](https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)
 ### Hi there 👋
 
 <!--
