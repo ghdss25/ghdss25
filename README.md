@@ -19,6 +19,15 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss25&show_icons=true&theme=dracula)
 
+### 💻 Estudando atualmente tecnologias Front - end
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+
+### 💻 Estudando atualmente tecnologias Back - end 
+![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
+
 <!--
 **ghdss25/ghdss25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
