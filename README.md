@@ -41,6 +41,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
+## Tecnologias mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss25&layout=compact)
+
 <!--
 **ghdss25/ghdss25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
