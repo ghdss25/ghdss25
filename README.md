@@ -28,6 +28,10 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ### 💻 Estudando atualmente tecnologias Back - end 
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 
+
+### 💻 Estudando atualmente tecnologias de Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
 <!--
 **ghdss25/ghdss25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
