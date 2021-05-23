@@ -19,6 +19,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss25&show_icons=true&theme=dracula)
 
+### 💻 Estudando atualmente tecnologias Locowode
+![Outsystems](https://img.shields.io/badge/-Outsystems-E42D2C?style=flat-square&logo=outsystems&logoColor=orange)
+
 ### 💻 Estudando atualmente tecnologias Front - end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
@@ -31,6 +34,10 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+### 💻 Usando atualmente Sistema Operacional
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 <!--
 **ghdss25/ghdss25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
