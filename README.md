@@ -17,6 +17,12 @@ Sou um estudante apaixonado pelas tecnologias. O meu objetivo diário é atuar c
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 </details>
 
+ <div>
+  <a href="https://github.com/ghdss25">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div
+
 ![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss25&show_icons=true&theme=dracula)
 
 ### 💻 Estudando atualmente tecnologias Locowode
