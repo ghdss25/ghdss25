@@ -54,8 +54,8 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
  <img align="center" alt="ghdss25-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 
 ### 💻 Usando atualmente Sistema Operacional
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+
+<img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 
 ## Tecnologias mais utilizadas
 
