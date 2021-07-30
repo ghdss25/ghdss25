@@ -56,11 +56,13 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ### 💻 Usando atualmente Sistema Operacional
 
 <img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+<img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 
 ## Tecnologias mais utilizadas
 
  <div>
   <a href="https://github.com/ghdss25">
   <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=ghdss25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
  </div>
 
