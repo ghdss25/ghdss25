@@ -7,7 +7,7 @@
 </div>
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
-
+<a><img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"></a>
 <details>
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   
