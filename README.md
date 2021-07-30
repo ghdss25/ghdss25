@@ -1,8 +1,14 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)](https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/)
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href = "mailto:gustavotinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/gustavo-henrique-de-souza-silva-4a150a68/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/ghdss25/ghdss25/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-[![Instagram Badge](https://img.shields.io/badge/-GustavoHenrique-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/souza_henrique.gustavo/)](https://www.instagram.com/souza_henrique.gustavo/)
-
-[![Gmail Badge](https://img.shields.io/badge/-gustavotinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavotinho@gmail.com)](mailto:gustavotinho@gmail.com)
 ### Hi there 👋
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
