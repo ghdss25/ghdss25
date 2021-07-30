@@ -45,6 +45,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   <img align="center" alt="ghdss25-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="ghdss25-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  
 </div>
   
 ### 💻 Estudando atualmente tecnologias Back - end 
@@ -55,6 +56,8 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   <img align="center" alt="ghdss25-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  <img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
 
 </div>
   
