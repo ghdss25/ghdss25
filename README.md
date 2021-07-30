@@ -60,6 +60,8 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
  <img align="center" alt="ghdss25-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+ <img align="center" alt="ghdss25-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+ <img align="center" alt="ghdss25-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
 
 ### 💻 Usando atualmente Sistema Operacional
 
