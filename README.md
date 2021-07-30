@@ -20,6 +20,15 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss25&show_icons=true&theme=dracula)
 
+## Tecnologias mais utilizadas
+
+ <div>
+ <a href="https://github.com/ghdss25">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api            username=ghdss25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss25&layout=compact&langs_count=7&theme=dracula"/>
+ 
+ </div>
+
 ### 💻 Estudando atualmente tecnologias Locowode
 ![Outsystems](https://img.shields.io/badge/-Outsystems-E42D2C?style=flat-square&logo=outsystems&logoColor=orange)
 
@@ -58,12 +67,4 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 <img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 <img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 
-## Tecnologias mais utilizadas
-
- <div>
- <a href="https://github.com/rafaballerini">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api            username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
- 
- </div>
 
