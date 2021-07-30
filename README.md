@@ -59,13 +59,23 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 </div>
   
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
+
+<div style="display: inline_block"><br> 
+  
  <img align="center" alt="ghdss25-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
  <img align="center" alt="ghdss25-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
  <img align="center" alt="ghdss25-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
 
+</div
+
 ### 💻 Usando atualmente Sistema Operacional
 
-<img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-<img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+<div style="display: inline_block"><br> 
+  
+  <img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="ghdss25-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-         original.svg">
+  
+</div>
+
 
 
