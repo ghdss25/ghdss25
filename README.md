@@ -77,4 +77,6 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 </div>
 
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
