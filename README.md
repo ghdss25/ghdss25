@@ -51,7 +51,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   
 
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
- <img align="center" alt="ghdss25-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+ <img align="center" alt="ghdss25-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 
 ### 💻 Usando atualmente Sistema Operacional
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
@@ -62,5 +62,5 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
  <div>
   <a href="https://github.com/ghdss25">
   <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=ghdss25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div
+ </div>
 
