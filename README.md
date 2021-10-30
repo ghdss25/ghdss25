@@ -40,7 +40,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ### 💻 Estudando atualmente tecnologias de Analise de Dados 
 
-![Power BI](https://img.shields.io/badge/-Power-BI-E42D2C?style=flat-square&logo=power-bi&logoColor=yellow)
+![Power BI](https://img.shields.io/badge/-PowerBI-E42D2C?style=flat-square&logo=power-bi&logoColor=yellow)
   
 ### 💻 Estudando atualmente tecnologias Back - end e Linguagem Estatística 
 <div style="display: inline_block"><br> 
