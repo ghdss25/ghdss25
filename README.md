@@ -39,9 +39,8 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 </div>
 
 ### 💻 Estudando atualmente tecnologias de Analise de Dados 
-<img align="center" alt="ghdss25-Power-BI" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/power-bi/power-bi-original.svg">
 
-<img align="center" alt="ghdss25-Excel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel.svg">
+![Power BI](https://img.shields.io/badge/-Power-BI-E42D2C?style=flat-square&logo=power-bi&logoColor=yellow)
   
 ### 💻 Estudando atualmente tecnologias Back - end e Linguagem Estatística 
 <div style="display: inline_block"><br> 
