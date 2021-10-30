@@ -23,7 +23,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ## Tecnologias mais utilizadas
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss25&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss26&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
 ### 💻 Estudando atualmente tecnologias Locowode
