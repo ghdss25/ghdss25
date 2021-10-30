@@ -37,6 +37,11 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   <img align="center" alt="ghdss25-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
+
+### 💻 Estudando atualmente tecnologias de Analise de Dados 
+<img align="center" alt="ghdss25-Power BI" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
+
+<img align="center" alt="ghdss25-Excel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel.svg">
   
 ### 💻 Estudando atualmente tecnologias Back - end e Linguagem Estatística 
 <div style="display: inline_block"><br> 
