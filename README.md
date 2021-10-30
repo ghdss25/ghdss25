@@ -37,10 +37,12 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   
 </div>
   
-### 💻 Estudando atualmente tecnologias Back - end 
+### 💻 Estudando atualmente tecnologias Back - end e Linguagem Estatistica 
 <div style="display: inline_block"><br> 
   
   <img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+    <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original.svg">
 
 </div>
   
