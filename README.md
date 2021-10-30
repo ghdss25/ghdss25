@@ -33,7 +33,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 <div style="display: inline_block"><br>
   
- 
+  <img align="center" alt="ghdss25-Html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
   
 </div>
   
