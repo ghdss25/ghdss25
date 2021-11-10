@@ -63,7 +63,6 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 <div style="display: inline_block"><br> 
   
   <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-   <img align="center" alt="ghdss25-windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-plain.svg">
 </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
