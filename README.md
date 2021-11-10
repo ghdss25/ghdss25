@@ -35,7 +35,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   
   <img align="center" alt="ghdss25-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ghdss25-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ghdss25-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/javascript-original.svg">
+  <img align="center" alt="ghdss25-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/js-original.svg">
   
 </div>
 
