@@ -44,11 +44,11 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ![Power BI](https://img.shields.io/badge/-PowerBI-E42D2C?style=flat-square&logo=power-bi&logoColor=yellow)
 ![Excel](https://img.shields.io/badge/-Excel-E42D2C?style=flat-square&logo=excel&logoColor=green)
 <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+<img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 ### 💻 Estudando atualmente tecnologias Back - end 
 <div style="display: inline_block"><br> 
-  
-  <img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
   
 </div>
   
