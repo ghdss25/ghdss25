@@ -40,8 +40,10 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 <div style="display: inline_block"><br> 
   
+  <img align="center" alt="ghdss25-Power_BI" height="40" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Power_BI/Power_BI-original.svg">
+  
    <img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/PowerBI/PowerBI-original.svg">
+  
   <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
  
 </div>
