@@ -49,18 +49,18 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
  
 </div>
-  
+
 ### 💻 Estudando atualmente tecnologias Back - end 
 
 <div style="display: inline_block"><br> 
   
-
+  <img align="center" alt="ghdss25-Postgre" height="40" width="40"   src="https://cdn.iconicons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
 </div>
 
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 
 <div style="display: inline_block"><br> 
-   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+   <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
 
 ### 💻 Usando atualmente Sistema Operacional
