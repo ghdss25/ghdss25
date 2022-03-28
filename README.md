@@ -40,7 +40,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 <div style="display: inline_block"><br> 
   
-  <img align="center" alt="ghdss25-Power_BI" height="40" width="40"   src="https://pt.m.wikipedia.org/wiki/Ficheiro:Power_bi_logo_black.svg">
+  <img align="center" alt="ghdss25-Power_BI" height="40" width="40"   src="https://www.interop.com.br/wp-content/uploads/2019/04/power-BI.png">
   
    <img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
