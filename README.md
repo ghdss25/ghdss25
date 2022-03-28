@@ -38,14 +38,15 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ### 💻 Estudando atualmente tecnologias de Analise de Dados 
 
-<img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-<img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: inline_block"><br> 
+  
+  <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
   
 ### 💻 Estudando atualmente tecnologias Back - end 
-<div style="display: inline_block"><br> 
- 
-  
-</div>
+
   
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 
