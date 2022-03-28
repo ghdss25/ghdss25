@@ -47,7 +47,11 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   
 ### 💻 Estudando atualmente tecnologias Back - end 
 
+<div style="display: inline_block"><br> 
   
+
+</div>
+
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 
 <div style="display: inline_block"><br> 
