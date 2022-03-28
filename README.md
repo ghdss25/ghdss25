@@ -61,7 +61,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 <div style="display: inline_block"><br> 
    <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-   <img align="center" alt="ghdss25-Linux" height="40" width="50" src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="ghdss25-postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ### 💻 Usando atualmente Sistema Operacional
