@@ -60,7 +60,7 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 
 <div style="display: inline_block"><br> 
-   <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+   <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </div>
 
 ### 💻 Usando atualmente Sistema Operacional
