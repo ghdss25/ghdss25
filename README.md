@@ -26,9 +26,6 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdss25&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
-### 💻 Estudando atualmente tecnologias Locowode
-![Outsystems](https://img.shields.io/badge/-Outsystems-E42D2C?style=flat-square&logo=outsystems&logoColor=orange)
-
 ### 💻 Estudando atualmente tecnologias Front - end
 
 <div style="display: inline_block"><br>
@@ -41,8 +38,6 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 
 ### 💻 Estudando atualmente tecnologias de Analise de Dados 
 
-![Power BI](https://img.shields.io/badge/-PowerBI-E42D2C?style=flat-square&logo=power-bi&logoColor=yellow)
-![Excel](https://img.shields.io/badge/-Excel-E42D2C?style=flat-square&logo=excel&logoColor=green)
 <img align="center" alt="ghdss25-R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 <img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
