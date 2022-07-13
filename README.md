@@ -56,7 +56,9 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
   
  <img align="center" alt="ghdss25-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="ghdss25-Php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img aling="center" alt="ghdss25-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
 
 ### 💻 Estudando atualmente tecnologias de Banco de Dados
 
